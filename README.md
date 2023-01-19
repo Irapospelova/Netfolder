@@ -4,4 +4,4 @@
 - I work
 - I study in Netology
 - Dont like winter
-- 
+- I have a dog
